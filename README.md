@@ -2,7 +2,7 @@
 
 This repository provides python codes for the paper:
 
-> Mockert, F., Grams, C. M., Brown, T., Neumann, F., 2023. Meteorological conditions during periods of low wind speed and insolation, so-called Dunkelflauten, in Germany: the role of weather regimes. *arXiv preprint https://arxiv.org/abs/2212.04870*
+> Mockert, F., Grams, C. M., Brown, T., Neumann, F., 2023. Meteorological conditions during periods of low wind speed and insolation in Germany: the role of weather regimes. *arXiv preprint https://arxiv.org/abs/2212.04870*
 
 ## Data
 The ERA5 data can be obtained from the Climate Data Store \url{https://cds.climate.copernicus.eu/#!/home}. 
