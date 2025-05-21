@@ -6,7 +6,7 @@ This repository provides python codes for the paper:
 
 ## Data
 The ERA5 data can be obtained from the Climate Data Store \url{https://cds.climate.copernicus.eu/#!/home}. 
-The historical power output and installed capacity can be retrieved from \url{https://data.open-power-system-data.org/time_series/2019-06-05}. 
+The historical power output and installed capacity can be retrieved from \url{https://data.open-power-system-data.org/time_series/}. 
 The demand data is available at \url{https://doi.org/10.17864/1947.273}.
 Weather regime data is available within this github repository.
 
